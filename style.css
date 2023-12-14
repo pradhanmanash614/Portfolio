@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #9dd8f4;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+    
+  }
+  
+  .tagline {
+    font-style: italic;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: #62d083;
+    font-style: italic;
+  }
+  
+  nav li {
+    display: inline-block;
+    padding: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  main section {
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  img {
+    width: 200px;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .project-card {
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #ddd;
+  }
+  section{
+    background-color: aquamarine;
+  }
+
+  #about h2
+  {
+    color: blue;
+  }
+  #skills h2{
+    color: blue;
+  }
+  #projects h2
+  {
+    color: blue;
+  }
+
+  #contact h2{
+    color: blue;
+  }
